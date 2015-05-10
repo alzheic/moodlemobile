@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "388"
-        version   = "1.14">
-    <name>Moodle Mobile</name>
+        id        = "ph.edu.usep.mvle"
+        versionCode = "001"
+        version   = "1.0">
+    <name>USeP VLE</name>
 
     <description>
-        Moodle Mobile official app
+        USeP VLE mobile app
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+    <author href="http://moodle.com" email="gervieabelgas@gmail.com">
+        Gervie Abelgas
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
